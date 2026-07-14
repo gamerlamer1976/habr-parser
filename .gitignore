@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.json
+.idea/
+*.log
+code.zip
+css_xpath_selectors.MD
+dtf_bs4.py
