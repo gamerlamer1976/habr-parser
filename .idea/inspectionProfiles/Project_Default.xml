@@ -1,0 +1,60 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="altair" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="blinker" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="flake8" />
+          <option value="gitdb" />
+          <option value="GitPython" />
+          <option value="h11" />
+          <option value="httptools" />
+          <option value="idna" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="MarkupSafe" />
+          <option value="mccabe" />
+          <option value="narwhals" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="pillow" />
+          <option value="protobuf" />
+          <option value="psycopg2-binary" />
+          <option value="pyarrow" />
+          <option value="pycodestyle" />
+          <option value="pydeck" />
+          <option value="pyflakes" />
+          <option value="python-dateutil" />
+          <option value="python-multipart" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="rpds-py" />
+          <option value="six" />
+          <option value="smmap" />
+          <option value="starlette" />
+          <option value="streamlit" />
+          <option value="tenacity" />
+          <option value="toml" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="watchdog" />
+          <option value="websockets" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

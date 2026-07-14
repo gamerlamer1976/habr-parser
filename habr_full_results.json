@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2026-07-14, 06:23",
+        "title": "Своя GPT-like LLM по WH40K с нуля. Часть 2: собираем трансформер",
+        "link": "https://habr.com/ru/articles/1056226/",
+        "found_keywords": [
+            "python"
+        ],
+        "keyword_counts": {
+            "python": 3
+        }
+    },
+    {
+        "date": "2026-07-14, 06:22",
+        "title": "Запрещаем AI выдумывать методы КОМПАС-3D: 200К пар обучения, модель на 34М и KOMPAS Guard в одном процессе",
+        "link": "https://habr.com/ru/articles/1058800/",
+        "found_keywords": [
+            "python"
+        ],
+        "keyword_counts": {
+            "python": 4
+        }
+    },
+    {
+        "date": "2026-07-14, 06:10",
+        "title": "Декомпозиция промптов для презентации: почему «сделай красиво» не работает",
+        "link": "https://habr.com/ru/articles/1058844/",
+        "found_keywords": [
+            "дизайн"
+        ],
+        "keyword_counts": {
+            "дизайн": 6
+        }
+    },
+    {
+        "date": "2026-07-14, 06:09",
+        "title": "Мок-интервью: зачем смотреть записи чужих собеседований — и как делать это правильно",
+        "link": "https://habr.com/ru/companies/yandex_praktikum/articles/1054776/",
+        "found_keywords": [
+            "python"
+        ],
+        "keyword_counts": {
+            "python": 3
+        }
+    }
+]
